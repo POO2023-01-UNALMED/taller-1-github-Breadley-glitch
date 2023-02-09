@@ -1,3 +1,5 @@
 Breadley Josshuen Marin Velasco
 19 Años 
 Aspiro a mejorar mis habilidades en programaciòn
+Ahora si pude crear un commit para subir la carpeta, debido a que creè un archivo en ella, generando un cambio notable para github
+
