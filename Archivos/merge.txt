@@ -1,0 +1,1 @@
+Ahora si pude crear un commit para subir la carpeta, debido a que creè un archivo en ella, generando un cambio notable para github
