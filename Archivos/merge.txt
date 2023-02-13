@@ -1,5 +1,9 @@
 Breadley Josshuen Marin Velasco
 19 Años 
 Aspiro a mejorar mis habilidades en programaciòn
-Ahora si pude crear un commit para subir la carpeta, debido a que creè un archivo en ella, generando un cambio notable para github
+Ahora si pude crear un commit para subir la carpeta, debido a que creè un archivo en ella, generando un cambio notable para github.
+
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque se pueden modificar cosas diferentes de manera simultanea, que al subir al repositorio pueden entrar en conflicto con el otro archivo. Generando errores o inconsistencias en el proyecto que provocaran confusiones o problemas innecesarios
 
